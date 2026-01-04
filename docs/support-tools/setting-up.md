@@ -49,7 +49,8 @@ If the setup worked correctly, the following executables will be created:
 - **xsm** in `$HOME/myexpos/xsm` folder
 
 !!! note
-    In newer versions of GCC (14+) when executing the ''' make ''' an error is thrown and the executables are not created. This can be fixed by downgrading GCC to     13 or lower.
+    In newer versions of GCC (14+) when executing the `make` an error is thrown and the executables are not created.
+    This can be fixed by downgrading GCC to 13 or lower.
 
 If the setting up of the system is done correctly the following directories will be created.
 
